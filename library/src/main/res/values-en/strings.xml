@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Picker</string>
+
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+    <string name="pick_image_error">Pick image error</string>
+    <string name="pick_image_no_num">Nothing to show</string>
+    <string name="sdcard_invalid">SD Card invalid</string>
+</resources>

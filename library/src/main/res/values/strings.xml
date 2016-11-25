@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Picker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+    <string name="pick_image_error">选取图片失败，请重新选择</string>
+    <string name="pick_image_no_num">无符合条件的图片</string>
+    <string name="sdcard_invalid">sd卡不可用</string>
+</resources>
